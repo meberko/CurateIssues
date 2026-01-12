@@ -33,9 +33,6 @@ Have an idea? Tell us:
 
 ## Get Started
 
-[Add link to Google Play Store / Download page when available]
-
-
 DM @meberko on Discord to receive the current release version of the app.
 
 **Note**: This repository is for issue tracking only. The source code is maintained separately.
